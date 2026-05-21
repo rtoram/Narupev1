@@ -1,0 +1,6 @@
+{
+  "name": "Naruper - Terra e Mar",
+  "description": "Uma experiência digital imersiva e memorável para Naruper, marca premium de surfwear, mountain & travel wear inspirada na harmonia entre a terra e o mar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
